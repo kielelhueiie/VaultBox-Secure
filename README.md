@@ -1,17 +1,16 @@
-# VaultBox Secure 🔒
+# vault_box
 
-VaultBox is a secure, cross-platform vault application built with **Flutter**. It demonstrates secure UI patterns and real-time cryptographic key generation.
+A new Flutter project.
 
-## 🚀 Features
-* **Secure Key Generation**: Logic to generate 16-character strong passwords.
-* **Encryption-Focused UI**: Professional dark-themed interface.
-* **Cross-Platform**: Optimized for Web, Android, and iOS deployment.
+## Getting Started
 
-## 🛠️ Tech Stack
-* **Framework**: Flutter
-* **Language**: Dart
-* **State Management**: StatefulWidget (Reactive UI)
+This project is a starting point for a Flutter application.
 
-## 📸 How to Run
-1. Enable web: `flutter config --enable-web`
-2. Run server: `flutter run -d web-server --web-port 8080`
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
